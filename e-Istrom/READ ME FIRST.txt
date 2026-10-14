@@ -1,0 +1,43 @@
+e-ISTROM: THE ISTROM OFFICE SYSTEM (Version 1)
+===============================================
+
+HOW TO OPEN IT
+--------------
+Double-click "e-Istrom.html" in this folder.
+It opens in your web browser. Google Chrome or Microsoft Edge work best.
+No internet or installation is needed.
+
+TRYING IT OUT
+-------------
+The system starts with Istrom's real 15 projects and 745 units (taken
+from istromgroup.com.ng). People, clients, payments and money figures are
+SAMPLE data so you can see how everything works.
+
+On the sign-in screen, click any role under "Try it as..." to see the
+system the way that person would. Every sample account uses the password:
+    istrom2026
+
+GOING LIVE WITH REAL DATA
+-------------------------
+1. Sign in as the Managing Director.
+2. Go to Settings > Backup & data > "Clear sample data".
+   Projects and units stay. Everything else is removed, and you create
+   the first real administrator account.
+3. Settings > Company: add the company bank account (it prints on letters).
+4. Staff: add each staff member, then use "Sign-in access" to give them a
+   role and a temporary password.
+5. Settings > Import from Excel: bring in existing clients, buyers and
+   balances, staff, vendors and store items.
+
+IMPORTANT: YOUR DATA
+--------------------
+Everything is saved inside the web browser on THIS computer.
+  - Always open e-Istrom with the same browser.
+  - Don't clear the browser's history or site data for this file.
+  - Make a backup every week: Settings > Backup & data > Download backup.
+    Keep the backup file on a flash drive or Google Drive.
+  - To move e-Istrom to another computer, copy this whole folder, open it
+    there, and use "Restore" with your latest backup.
+
+Version 1 runs on one computer. Putting it online so every staff member can
+use it from their own laptop or phone is the next step.
